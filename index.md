@@ -3,10 +3,6 @@ layout: default
 title: MIT AI for Science - June 2025
 ---
 
-# MIT AI for Science
-
-Welcome to the MIT AI for Science program - June 2025 cohort.
-
 ## AI for Scientific Discovery - Course Schedule
 
-[View our course schedule](schedule) 
+<img src="{{ site.baseurl }}/images/schedule.png" alt="MIT AI for Science Schedule" style="max-width: 100%; height: auto;"> 
