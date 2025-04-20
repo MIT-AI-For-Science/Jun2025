@@ -24,7 +24,7 @@ footer-links:
   email: rashmi.banthia@mail.analytics.hbs.edu
   facebook:
   flickr:
-  github: MIT-AI-For-Science/june2025.github.io
+  github: MIT-AI-For-Science/Jun2025
   instagram:
   linkedin: 
   pinterest:
@@ -48,14 +48,14 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://mit-ai-for-science.github.io/june2025.github.io
+url: "https://mit-ai-for-science.github.io"
 enforce_ssl: https://mit-ai-for-science.github.io/june2025.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/Jun2025"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -99,4 +99,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Theme setting
+theme: jekyll-theme-minimal
 
