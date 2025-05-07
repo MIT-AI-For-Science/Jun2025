@@ -8,6 +8,8 @@ title: MIT AI for Science - June 2025
 
 ## Instructors: Wojciech Matusik (MIT), Hanspeter Pfister (Harvard University)
 
+[HW0 Prerequisites Form](https://forms.gle/7L8kpzwjy9u4PTNH6)
+
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Day 1 – June 2 | Day 2 – June 3 | Day 3 – June 4 |
 |---------------|----------------|----------------|----------------|
 | 9:00–10:30 | Module 1: Data Preparation and Cleanup (HP) – Lecture - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) | Module 3: Data Visualization Methods (HP) – Lecture - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) | Module 5: AI-based Predictive Models (HP) – Lecture - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) |
@@ -17,6 +19,5 @@ title: MIT AI for Science - June 2025
 | 2:30–4:00 | Module 2: Digital Data Representations (WM) – Lab - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) | Module 4: Generative Models for Science (WM) – Lab - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) | Module 6: AI-based Experiment Planning (WM) – Lab - [Link](https://colab.research.google.com/drive/1LBP85oJ8o5UY2nPbsBWcRgnV3E7J-nrM?usp=sharing) |
 | 4:00–5:00 | Recent advances in AI for Science. Tell us about your problems. | Guest Speaker: Advanced topics in Drug Discovery | Course Recap and Q&A |
 
-&nbsp;
 
 * Link available for participants
