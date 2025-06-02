@@ -8,7 +8,7 @@ title: MIT AI for Science - June 2025
 
 [* Course Contents]( https://bit.ly/mitjune2025)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [HW0 Prerequisites Form](https://forms.gle/7L8kpzwjy9u4PTNH6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Discord](https://bit.ly/mitaidiscord)
+[Discord](https://bit.ly/mitaidiscordjune2025)
 
 
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Day 1 – June 2 | Day 2 – June 3 | Day 3 – June 4 |
