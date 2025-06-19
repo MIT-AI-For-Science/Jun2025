@@ -6,9 +6,8 @@ title: MIT AI for Science - June 2025
 ## Instructors: Wojciech Matusik (MIT), Hanspeter Pfister (Harvard University)
 ### Teaching Fellow: Rashmi Banthia (Harvard University)
 
-[* Course Contents]( https://bit.ly/mitjune2025)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Course Contents &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [HW0 Prerequisites Form](https://forms.gle/7L8kpzwjy9u4PTNH6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Discord](https://bit.ly/mitaidiscordjune2025)
 
 
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Day 1 – June 2 | Day 2 – June 3 | Day 3 – June 4 |
